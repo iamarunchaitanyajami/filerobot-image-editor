@@ -29,6 +29,7 @@
   ],
   "dependencies": {
     "@babel/runtime": "^7.17.2",
+    "@emotion/is-prop-valid": "^1.2.2",
     "@scaleflex/icons": "2.6.3",
     "@scaleflex/ui": "2.7.0",
     "konva": "9.3.6",
